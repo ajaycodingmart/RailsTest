@@ -1,2 +1,2 @@
 # RailsTest
-Rails Dummy 
+This is a sample app which can be used to create blog posts.
